@@ -26,21 +26,19 @@ class: middle hide-logo title
 ]
 
 ---
-class: roja upper right
-# Estructura de la presentación
+class: inverse upper
+# Estructura
 
 1- Objetivos
 
-2- Proyecciones
+2- Dimensiones utilizadas en estudios internacionales
 
-3- Dimensiones utilizadas en estudios internacionales
-
-4- Propuesta conceptual con ELSOC
+3- Propuesta conceptual con ELSOC
 
 ---
 class: roja bottom right
 
-# Objetivos
+# 1. Objetivos
 
 ---
 class: inverse center
@@ -56,11 +54,6 @@ Estos indicadores son seleccionados a partir de una revisión sistemática de di
 ---
 
 .center[![:scale 50%](images/DT_medicion.jpg)]
-
----
-class: roja bottom right
-
-# Proyecciones
 
 ---
 # Proyecciones
@@ -138,7 +131,7 @@ class: roja bottom right
 ---
 class: roja bottom right
 
-# Propuesta conceptual con ELSOC
+# 3. Propuesta conceptual con ELSOC
 
 ---
 # Indicadores ELSOC
