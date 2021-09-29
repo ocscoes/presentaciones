@@ -1,0 +1,239 @@
+---
+title: "Presentation Conference Cohesive Societies"
+author: ".small[Kevin Carrasco Quintanilla]"
+date: "Abril 2021"
+output:
+  xaringan::moon_reader:
+    includes:
+      after_body: insert-logo.html
+    lib_dir: libs
+    css: ["custom_2020.css"]
+    seal: false # esto omite title slide automática
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+      beforeInit: "xaringan_custom/macros.js"
+      slideNumberFormat: "%current%/%total%"
+---
+class: middle hide-logo title
+
+```{r xaringanExtra, echo = FALSE}
+  xaringanExtra::use_progress_bar(color = "black", location = c("top"))
+```
+
+.center[
+# Concepts and measurement of social cohesion in international perspective
+
+.medium[_3rd AS Conference: Cohesive Societies? Analytical-empirical Perspectives_]
+
+.red[.medium[Juan C. Castillo, Kevin Carrasco & Ignacio Cáceres] ]
+
+<br>
+
+![:scale 80%](images/COES_ENG_Logo_horiz_azul.png)
+
+]
+
+???
+
+First of all, a few words about the research center in which this paper is framed.
+
+The Center of Social Conflict and Cohesion Studies was born in 2013 funded by a grant of our national research agency ANID. We have four research lines covering socieconomic, interactional, political and territorial aspects of social conflict and cohesion. Currently there are about 50 researchers involved, who are academics from four of the largest universities in Chile.
+
+Part of our efforts have been related with the conceptualization and measurement of social cohesion, and the present paper is part of this enterprise.
+
+---
+# COES & Social Cohesion
+
+.pull-left-narrow[
+<br>
+![:scale 80%](images/ocs.png)
+]
+
+.pull-right-wide[
+- comparative indicators of [social cohesion in Latin America](https://ocs-coes.netlify.app/)
+
+- working paper ["Concepts and Measurement of Social Cohesion in International perspective"](https://ocscoes.github.io/concepto-medicion/)
+
+- changes in social cohesion in Chile 2016-2020 with our panel survey [ELSOC](https://coes.cl/encuesta-panel/) (paper in progress)
+
+- this project
+]
+
+---
+class: inverse middle center
+
+# More information:
+
+##[https://coes.cl/](https://coes.cl/)
+
+##[https://ocs-coes.netlify.app/](https://ocs-coes.netlify.app/)
+
+---
+class: inverse middle center
+
+## How has social cohesion been conceptualized and measured in international comparative studies?
+
+## What are the common dimensions accross studies?
+
+???
+this is not a research paper, is mostly a review of social cohesion studies and an effort to find common aspects across them which allow us to propose a conceptual and measurement framework
+
+
+---
+class: roja
+.pull-left-narrow[
+# Steps
+]
+
+.pull-right-wide[
+## 1. Identify studies
+## 2. Describe dimensions
+## 3. Identify communalities
+## 4. A minimal proposal]
+
+---
+class: roja
+.pull-left-narrow[
+# Steps
+]
+
+.pull-right-wide[
+## 1. .yellow[Identify studies]
+## 2. Describe dimensions
+## 3. Identify communalities
+## 4. A minimal proposal]
+
+---
+# (Comparative) Survey research projects on social cohesion
+
+* Mapping Social cohesion 
+
+* Scanlon-Monash Index of Social Cohesion
+
+* Social cohesion radar
+
+* Civic engagement and Social cohesion report
+
+* ECOsociAL
+
+???
+Each of these studies has proposed different definitions of social cohesion, accompanied by different forms of operationalization. As a result, there are different dimensions, sub-dimensions and indicators that seek to measure social cohesion across these projects. Some of these dimensions are common among studies, but most of them present wide differences in their operationalization, combining indicators that in some studies are presented as sub-dimensions and in others constitute differentiated dimensions. As a result of conceptual differences, the nesting structure of dimensions and sub-dimensions is different between projects, which makes it difficult to make a direct comparison between the experiences reviewed. 
+
+---
+class: roja
+.pull-left-narrow[
+# Steps
+]
+
+.pull-right-wide[
+## 1. Identify studies
+## 2. .yellow[Describe dimensions]
+## 3. Identify communalities
+## 4. A minimal proposal]
+
+
+---
+# Common social cohesion dimensions/sub-dimensions
+
+.pull-left[
+* Sense of belonging
+* Trust in institutions
+* Perception of justice
+* Political participation
+* Focus on the common good
+* Social trust
+* Acceptance of diversity
+* Social networks
+]
+
+.pull-right[
+* Dignified treatment
+* Satisfaction with life, happiness and expectations about the future
+* Quality of social coexistence
+* Perception of opportunities and social mobility
+]
+
+---
+class: roja
+.pull-left-narrow[
+# Steps
+]
+
+.pull-right-wide[
+## 1. Identify studies
+## 2. Describe dimensions
+## 3. .yellow[Identify communalities]
+## 4. A minimal proposal]
+
+
+---
+# Communalities / intersections
+.pull-left[
+
+
+![](images/Percent-Venn-Diagram-Image-6.png)
+]
+
+.pull-right[
+
+- Trust in institutions/democracy
+
+- Political participation
+
+- Justice perceptions
+
+- Sense of belonging
+
+- Neighbourhood life quality
+- Social networks
+]
+
+
+---
+class: roja
+.pull-left-narrow[
+# Steps
+]
+
+.pull-right-wide[
+## 1. Identify studies
+## 2. Describe dimensions
+## 3. Identify communalities
+## 4. .yellow[A minimal proposal]
+]
+
+---
+# Conceptual aids
+
+
+Chan, J., To, H.-P., & Chan, E. (2006). Reconsidering Social Cohesion: Developing a Definition and Analytical Framework for Empirical Research. _Social Indicators Research_, 75(2), 273–302.
+
+--
+
+_"We believe that a good deﬁnition of social cohesion, just like any other concepts in the social sciences, should be judged in terms of two criteria: (1) .red[minimal] in scope and (2) close to .red[ordinary usage_]" (p.280).
+
+---
+# Conceptual aids (2)
+
+<br>
+
+.center[
+"_Social cohesion is a state of aﬀairs concerning both the **vertical** and the **horizontal** interactions among members of society as characterized by a set of attitudes and norms that includes .red[trust], a sense of .red[belonging] and the willingness to .red[participate and help], as well as their behavioural manifestations_". (p. 290)
+]
+
+---
+# Vertical dimension
+
+.center[![:scale 80%](images/vertical_eng.png)]
+---
+# Horizontal dimensions
+
+.center[![:scale 80%](images/horizontal-eng.png)]
+
+---
+class:middle hide-logo title
+
+.center[![:scale 50%](images/COES_Logo_sello2.png)]
