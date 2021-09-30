@@ -47,6 +47,20 @@ The Center of Social Conflict and Cohesion Studies was born in 2013 funded by a 
 Part of our efforts have been related with the conceptualization and measurement of social cohesion, and the present paper is part of this enterprise.
 
 ---
+class: middle
+
+.center[
+.red[Social cohesion]: _‘a quasi-concept, that is, one of those hybrid mental constructions that politics proposes to us more and more often in order to simultaneously detect possible consensuses on a reading of reality, and to forge them’’_ (p. 2).
+]
+<br>
+
+.medium[Bernard, P. (1999). Social cohesion: A critique. Canadian Policy Research Networks.]
+
+
+
+
+
+---
 # COES & Social Cohesion
 
 .pull-left-narrow[
