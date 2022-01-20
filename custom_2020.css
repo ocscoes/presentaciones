@@ -20,6 +20,7 @@
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
 @import url(https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700);
 @import url(https://fonts.googleapis.com/css?family=sourcesans);
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Courier+Prime&display=swap')
 
 .title-slide .remark-slide-number {
   display: none;
@@ -28,8 +29,6 @@
 .title .remark-slide-number {
   display: none;
 }
-
-
 
 body {
   font-family: 'Droid Serif', 'Palatino Linotype', 'Book Antiqua', Palatino, 'Microsoft YaHei', 'Songti SC', serif;
@@ -56,7 +55,7 @@ b, .yellow {
    }
 
 h1, h2, h3 {
-  font-family: 'Yanone Kaffeesatz';
+  font-family: 'Anton', sans-serif;
   font-weight: normal;
   color: #dc322f;
   margin-bottom:0.2px;
@@ -69,13 +68,13 @@ h1, h2, h3 {
   padding: 1em 2em 1em 2em;
 }
 .remark-slide-content h1 {
-    font-size: 65px;
-}
-.remark-slide-content h2 {
     font-size: 55px;
 }
-.remark-slide-content h3 {
+.remark-slide-content h2 {
     font-size: 45px;
+}
+.remark-slide-content h3 {
+    font-size: 35px;
 }
 .remark-code, .remark-inline-code {
   font-family: 'Source Code Pro', 'Lucida Console', Monaco, monospace;
@@ -133,7 +132,7 @@ a, a > code {
 
 
 .inverse h1{
-  font-size: 3em;  
+  font-size: 2.5em;  
 }
 
 .inverse h2{
@@ -330,4 +329,121 @@ a:hover {
 a:active {
   color: blue;
 }
+
+
+.espaciosimple{
+  line-height: 0.9em
+} 
+
+
+.espaciosimplelineas{
+  line-height: 0.3em
+} 
+
+
+
+/******************
+ *
+ * Coloured content boxes
+ *
+ ****************/
+
+
+.content-box {
+    box-sizing: content-box;
+    	background-color: #e2e2e2;
+  /* Total width: 160px + (2 * 20px) + (2 * 8px) = 216px
+     Total height: 80px + (2 * 20px) + (2 * 8px) = 136px
+     Content box width: 160px
+     Content box height: 80px */
+}
+
+
+.content-box-blue,
+.content-box-gray,
+.content-box-grey,
+.content-box-army,
+.content-box-green,
+.content-box-purple,
+.content-box-red,
+.content-box-yellow {
+    border-radius: 10px;
+    margin: 0 0 15px;
+    overflow: hidden;
+    padding: 10px;
+    width: 100%;
+}
+
+.content-box-blue {
+    background-color: #F0F8FF;
+
+}
+
+.content-box-gray {
+    background-color: #e2e2e2;
+}
+
+.content-box-grey {
+	background-color: #F5F5F5;
+}
+
+.content-box-army {
+	background-color: #737a36;
+}
+
+.content-box-green {
+	background-color: #d9edc2;
+}
+
+.content-box-purple {
+	background-color: #e2e2f9;
+}
+
+.content-box-red {
+	background-color: #f9dbdb;
+}
+
+.content-box-yellow {
+	background-color: #fef5c4;
+}
+
+
+.full-width {
+    display: flex;
+    width: 100%;
+    flex: 1 1 auto;
+}
+
+
+/**************
+ *
+ * Font colours
+ *
+ **************/
+
+
+.black { color: black; }
+.red { color: red; }
+.blue { color: blue; }
+.green { color: green; }
+.yellow { color: yellow; }
+.orange { color: orange; }
+.purple { color: purple; }
+.gray { color: gray; }
+.grey { color: gray; }
+.white{ color: white; }
+
+.bold { font-weight: bold; }
+.bolder { font-weight: bolder; }
+
+
+iframe {
+    border: 1px solid black;
+    width: 100%;
+}
+
+.output {
+    background: #eee;
+}
+
 
