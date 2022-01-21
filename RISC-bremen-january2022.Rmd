@@ -78,6 +78,38 @@ First of all, a few words about the research center in which this paper is frame
 The Center of Social Conflict and Cohesion Studies was born in 2013 funded by a grant of our national research agency ANID. We have four research lines covering socieconomic, interactional, political and territorial aspects of social conflict and cohesion. Currently there are about 50 researchers involved, who are academics from four of the largest universities in Chile.
 
 Part of our efforts have been related with the conceptualization and measurement of social cohesion, and the present paper is part of this enterprise.
+
+---
+class: inverse middle center
+
+# Some context
+
+---
+
+.pull-left-narrow[
+![:scale 70%](images/chile.png)
+]
+
+.pull-right-wide[
+## Chile: Quick context
+
+- Population: 19 million (almost half in the capital, Santiago)
+
+- Military dictatorship from 1973-1990, deep neoliberal reforms 
+
+- Growing migration in the last 10 years
+
+- Democratic disaffection, low voting turnout
+
+- Low poverty and high inequality 
+
+]
+
+---
+class: middle center
+![](images/chile-graphs.png)
+
+
 ---
 class: inverse middle
 
