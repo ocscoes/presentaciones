@@ -55,7 +55,7 @@ b, .yellow {
    }
 
 h1, h2, h3 {
-  font-family: 'Anton', sans-serif;
+  font-family: 'Book Antiqua', sans-serif;
   font-weight: normal;
   color: #dc322f;
   margin-bottom:0.2px;
@@ -88,11 +88,14 @@ h1, h2, h3 {
 
 
 }
+
 .remark-slide-number {
   color: #DD0101;
   opacity: 1;
-  font-size: 0.9em;
+  font-size: 0.7em;
+  margin-right: 0px;
 }
+
 
 strong{color:#d33682;}
 a, a > code {
@@ -337,7 +340,7 @@ a:active {
 
 
 .espaciosimplelineas{
-  line-height: 0.3em
+  line-height: 0.3  em
 } 
 
 
