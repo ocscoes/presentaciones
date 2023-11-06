@@ -1,0 +1,258 @@
+---
+title: "Conferencia COES 2023"
+author: ".small[JC Castillo, Kevin Carrasco]"
+date: "Noviembre 2023"
+output:
+  xaringan::moon_reader:
+    includes:
+      after_body: insert-logo.html
+    lib_dir: libs
+    css: ["custom_2020.css"]
+    seal: false # esto omite title slide automática
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+      beforeInit: "xaringan_custom/macros.js"
+      slideNumberFormat: "%current%/%total%"
+---
+class: hide-logo title
+
+```{r xaringanExtra, echo = FALSE}
+  xaringanExtra::use_progress_bar(color = "red", location = c("top"))
+```
+
+.pull-left-narrow[
+
+
+
+![:scale 100%](images/coes-conf-2023.png)
+
+![:scale 80%](images/COES_ENG_Logo_horiz_azul.png)
+
+![:scale 50%](images/qr.png)
+
+.tiny[
+[https://ocs-coes.netlify.app/](https://ocs-coes.netlify.app/)
+]
+]
+
+.pull-right-wide[
+.content-box-red[
+.right[
+# Observatorio de Cohesión Social
+
+----
+
+.medium[
+<div style="line-height:150%;">
+Juan Carlos Castillo*
+
+<br>
+Kevin Carrasco
+</div>
+.small[
+ *Departamento de Sociología, Universidad de Chile
+ mail:[juancastillov@uchile.cl](juancastillov@uchile.cl) - [jc-castillo.com](https://jc-castillo.com)]   
+]
+
+]
+]
+
+]
+
+???
+
+---
+background-color: black
+
+.pull-left-narrow[
+# .orange[**Contenidos**]
+]
+
+.pull-right-wide[
+
+<br>
+
+
+## .white[1- ¿Qué es el observatorio de cohesión social?]
+
+## .white[2- Principales herramientas y resultados]
+
+## .white[3- Proyecciones]
+
+]
+
+---
+background-color: black
+
+.pull-left-narrow[
+# .orange[**Contenidos**]
+]
+
+
+.pull-right-wide[
+
+<br>
+
+## .red[1- ¿Qué es el observatorio de cohesión social?]
+
+## .white[2- Principales herramientas y resultados]
+
+## .white[3- Proyecciones]
+
+]
+
+
+---
+# ¿Qué es el observatorio de cohesión social?
+
+El .red[Observatorio de Cohesión social] es una iniciativa COES que propone contribuir a la conceptualización y análisis empírico de la cohesión social en Chile, como también a su estudio en perspectiva comparada internacional. Los esfuerzos del observatorio han estado orientados en dos ámbitos de trabajo:
+
+![:scale 100%](images/reportes.png)
+
+
+---
+background-color: black
+
+.pull-left-narrow[
+# .orange[**Contenidos**]
+]
+
+
+.pull-right-wide[
+
+<br>
+
+## .white[1- ¿Qué es el observatorio de cohesión social?]
+
+## .red[2- Principales herramientas y resultados]
+
+## .white[3- Proyecciones]
+
+]
+
+
+---
+# Principales herramientas y resultados
+### Visualizador de cohesión social
+
+.pull-left[
+![:scale 100%](images/ocsvis-long.png)
+]
+
+.pull-right[
+![:scale 100%](images/ocsvis-biv.png)
+]
+
+---
+# Principales herramientas y resultados
+.pull-left-narrow[ .red[Conceptos y medición de cohesión social en proyectos internacionales]
+]
+.pull-right-wide[
+![:scale 50%](images/workpaper1.png)
+]
+
+---
+# Principales herramientas y resultados
+.pull-left-narrow[ .red[Hacia una propuesta de medición de Cohesión Social con ELSOC]
+]
+
+.pull-right-wide[
+![:scale 100%](images/workpaper2.png)
+]
+
+---
+# Principales herramientas y resultados
+.pull-left-narrow[ .red[Cohesión social en Chile en tiempos de cambio:]
+Indicadores, perfiles y factores asociados
+]
+
+.pull-right-wide[
+![:scale 50%](images/cohesion-cepal.png)
+]
+
+---
+## Conceptos, medición e indicadores de cohesión social. Una perspectiva longitudinal
+
+.pull-left-narrow[
+## Dimensión horizontal]
+.pull-right-wide[
+![:scale 92%](https://raw.githubusercontent.com/ocscoes/medicion-cohesion-elsoc/main/output/graphs/plot_horizontal.png)
+]
+
+
+---
+## Conceptos, medición e indicadores de cohesión social. Una perspectiva longitudinal
+
+.pull-left-narrow[
+## Dimensión Vertical]
+.pull-right-wide[
+![:scale 92%](https://raw.githubusercontent.com/ocscoes/medicion-cohesion-elsoc/main/output/graphs/plot_vertical.png)
+]
+
+---
+background-color: black
+
+.pull-left-narrow[
+# .orange[**Contenidos**]
+]
+
+
+.pull-right-wide[
+
+<br>
+
+## .white[1- ¿Qué es el observatorio de cohesión social?]
+
+## .white[2- Principales herramientas y resultados]
+
+## .red[3- Proyecciones]
+
+]
+
+---
+
+# Proyecciones
+
+.pull-left-narrow[.red[Visualizador Cohesión social en América Latina]
+]
+
+.pull-right-wide[
+![:scale 92%](images/ocsvis-mapa.png)
+]
+
+---
+# Proyecciones
+
+.pull-left-narrow[.red[Visualizador dimensiones de cohesión social en Chile con elsoc]
+]
+
+.pull-right-wide[
+![:scale 92%](images/ocsvis-elsoc.png)
+]
+---
+
+
+# Mayor información:
+
+###[- coes.cl](https://coes.cl/)
+
+###[- ocs-coes.netlify.app](https://ocs-coes.netlify.app/)
+
+### [- github.com/ocscoes/medicion-cohesion-elsoc](https://github.com/ocscoes/medicion-cohesion-elsoc)
+
+
+---
+class: center middle
+
+# Gracias por su atención!
+
+Información de contacto:
+
+Juan Carlos Castillo / juancastillov@uchile.cl - [jc-castillo.com](https://juancarloscastillo.github.io/jc-castillo/)
+
+Departamento de Sociología - Universidad de Chile
+
+.center[![:scale 10%](images/COES_Logo_sello2.png)]

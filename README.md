@@ -10,3 +10,7 @@
 - [Informe medición de cohesión social con ELSOC - Directorio COES, Abril 2022](https://ocscoes.github.io/presentaciones/Presentación-informe-medicion.html)
 
 - [Presentación ISA Melbourne 26th June 2023- Concepts, Measurement and Indicators of Social Cohesion: A Longitudinal Perspective](https://ocscoes.github.io/presentaciones/ISA-Melbourne-2023.html)
+
+- [Presentación Conferencia COES Noviembre 2023- Conceptos, Medición e Indicadores de Cohesion Social: Una perspectiva longitudinal](https://ocscoes.github.io/presentaciones/medicion-cohesion-coes2023.html)
+
+- [Presentación Conferencia COES Noviembre 2023- Observatorio de cohesión social](https://ocscoes.github.io/presentaciones/observatorio-cohesion-coes2023.html)
