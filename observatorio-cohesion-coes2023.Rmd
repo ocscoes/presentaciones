@@ -104,6 +104,13 @@ background-color: black
 
 ]
 
+---
+background-color: black
+
+## Equipo
+
+![:scale 90%](images/equipo.png)
+
 
 ---
 class: reverse, center, middle
@@ -113,6 +120,15 @@ class: reverse, center, middle
 El .red[Observatorio de Cohesión social] es un .blue[portal interactivo] que permite realizar análisis comparativos de distintos .blue[indicadores] asociados a cohesión social con foco en .blue[América Latina] entre 2004 y 2018.
 
 Utiliza la base de la encuesta .blue[LAPOP] (Latin American Public Opinion Project), olas 2004, 2006, 2008, 2010, 2012, 2014, 2016 y 2018.
+
+---
+.pull-left-narrow[
+# Bases conceptuales 
+]
+
+.pull-right-wide[
+![:scale 80%](images/modelo-cohesion.png)
+]
 
 ---
 background-color: black
@@ -171,7 +187,15 @@ Indicadores, perfiles y factores asociados
 ]
 
 .pull-right-wide[
-![:scale 50%](images/cohesion-cepal.png)
+
+.pull-left-narrow[
+![:scale 100%](images/cohesion-cepal.png)
+]
+
+.pull-right-wide[
+![:scale 100%](images/mapas_region.png)
+]
+
 ]
 
 ---
