@@ -1,4 +1,4 @@
-# Presentaciones en temas del Observatorio de Cohesión Social
+# Presentations about social cohesion indicators and related topics
 
 
 - [Cohesive Societies Conference, Akademie für Soziologie, September 2021](https://ocscoes.github.io/presentaciones/presentation-cohesive-societies.html), [abstract](https://docs.google.com/document/d/15ryU7N8Qx-s7qJqbTJihF1WVvNhnszzyB_nmgxbf7SA/edit?usp=sharing)
