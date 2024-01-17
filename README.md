@@ -14,3 +14,5 @@
 - [Presentación Conferencia COES Noviembre 2023- Conceptos, Medición e Indicadores de Cohesion Social: Una perspectiva longitudinal](https://ocscoes.github.io/presentaciones/medicion-cohesion-coes2023.html)
 
 - [Presentación Conferencia COES Noviembre 2023- Observatorio de cohesión social](https://ocscoes.github.io/presentaciones/observatorio-cohesion-coes2023.html)
+
+- [GlobaLab Bremen Conversations on Global Solidarity - Jan 2024](https://ocscoes.github.io/presentaciones/global-solidarities-Jan2024/bremen_global_sol2024.html)
