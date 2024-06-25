@@ -425,11 +425,15 @@ Each of these studies has proposed different definitions of social cohesion, acc
 ]
 
 ---
-## Communalities / intersections
+
 .pull-left[
+## Communalities / intersections
 
+![:scale 65%](images/Percent-Venn-Diagram-Image-6.png)
+.tiny[
+Castillo, JC., Olivos, F. & Iturra, J. (2021). [Conceptos y medición de cohesión social en proyectos internacionales](https://drive.google.com/file/d/1FvmVhdYaT_Tg4fNyUKSshv45uJdJkTWo/view). Serie Documentos de Trabajo COES, Documento de trabajo N°47, pp. 1-37.
+]
 
-![](images/Percent-Venn-Diagram-Image-6.png)
 ]
 
 .pull-right[
@@ -446,6 +450,9 @@ Each of these studies has proposed different definitions of social cohesion, acc
 - Social networks
 ]
 
+
+
+
 ???
 The common dimensions accross projects are the following, and based on these communalities our objective was to organize them into the more general framework from Chan, To and Chan (vertical/horizontal), creating a new framework for defining and measuring social cohesion
 
@@ -461,13 +468,20 @@ And we are in this situation, trying to make a standard based on the communaliti
 
 
 ---
-class: middle center
+class: middle
 
-.center[![:scale 90%](images/vertical_eng.png)]
+.center[![:scale 80%](images/vertical_eng.png)]
+
+
+.tiny[
+Castillo, J., Iturra, J. Carrasco, K. (2021). Hacia una propuesta de medición de Cohesión Social con ELSOC. Available in https://ocscoes.github.io/cohesion-elsoc/ ]
 ---
-class: middle center
+class: middle
 
-.center[![:scale 90%](images/horizontal.png)]
+.center[![:scale 80%](images/horizontal.png)]
+
+.tiny[
+Castillo, J., Iturra, J. Carrasco, K. (2021). Hacia una propuesta de medición de Cohesión Social con ELSOC. Available in https://ocscoes.github.io/cohesion-elsoc/ ]
 
 ---
 
@@ -499,6 +513,9 @@ background-color: #1e236b
 # Vertical dimension]
 .pull-right-wide[
 ![](images/vertical-sempath.png)
+.tiny[
+Castillo, JC & Carrasco, K. 2023
+]
 ]
 
 
@@ -507,6 +524,9 @@ background-color: #1e236b
 # Horizontal dimension]
 .pull-right-wide[
 ![](images/horizontal-sempath.png)
+.tiny[
+Castillo, JC & Carrasco, K. 2023
+]
 ]
 
 
@@ -562,8 +582,11 @@ class: center middle
 ]
 
 
+---
 
+# Team
 
+![](images/team.png)
 
 
 

@@ -246,6 +246,23 @@ a, a > code {
   width: 66%;
 }
 
+.pull-three-left {
+  float: left;
+  width: 32%;
+}
+
+.pull-three-center {
+  float: none;
+  width: 32%;
+}
+
+.pull-three-right {
+  float: right;
+  width: 32%;
+}
+
+
+
 
 }
 .pull-right ~ * {
