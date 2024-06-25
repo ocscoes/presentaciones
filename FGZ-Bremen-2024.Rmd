@@ -297,6 +297,18 @@ class: middle center
 
 
 ---
+.pull-left-narrow[
+# Open data
+]
+
+.pull-right-wide[
+![](images/dataverse.png)
+
+[dataverse.harvard.edu/dataverse/elsoc](https://dataverse.harvard.edu/dataverse/elsoc)
+
+]
+
+---
 
 background-color: #1e236b
 
@@ -394,7 +406,7 @@ Each of these studies has proposed different definitions of social cohesion, acc
 .content-box-red[
 ### Inconsistencies
 
-- conceptual
+- conceptual scope
 
 - dimensions / subdimensions
 ]
