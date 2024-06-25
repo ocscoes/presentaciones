@@ -428,6 +428,8 @@ a:active {
 .black { color: black; }
 .red { color: red; }
 .blue { color: blue; }
+.dark-blue { color: #1e236b; }
+.light-blue{ color: }
 .green { color: green; }
 .yellow { color: yellow; }
 .orange { color: orange; }
