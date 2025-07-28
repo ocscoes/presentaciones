@@ -57,11 +57,11 @@ editor: visual
 ### Propuesta
 
 ::: {.incremental .highlight-last style="font-size: 35px;"}
--  Se desarrollaron una serie de **indicadores de cohesión social de América Latina**, basándose en una perspectiva bidimensional que considera aspectos horizontales y verticales (Chan et al., 2006), los cuales pueden ser analizados en visualizadores interactivos. 
+-   Se desarrollaron una serie de **indicadores de cohesión social de América Latina**, basándose en una perspectiva bidimensional que considera aspectos horizontales y verticales (Chan et al., 2006), los cuales pueden ser analizados en visualizadores interactivos.
 
--  Mientras la *cohesión horizontal* refleja las relaciones dentro de la sociedad civil, la *cohesión vertical* captura la relación entre la ciudadanía y el Estado. 
+-   Mientras la *cohesión horizontal* refleja las relaciones dentro de la sociedad civil, la *cohesión vertical* captura la relación entre la ciudadanía y el Estado.
 
--  La mayor virtud de este instrumento es que permite realizar análisis comparativos entre países y entre distintos momentos en el tiempo.
+-   La mayor virtud de este instrumento es que permite realizar análisis comparativos entre países y entre distintos momentos en el tiempo.
 :::
 
 ## 
@@ -81,26 +81,26 @@ editor: visual
 ### Métodos
 
 ::: {.incremental .highlight-last style="font-size: 35px;"}
--   En un primer momento, se identificaron los indicadores disponibles para poder definir los subíndices que componen cada dimensión de la cohesión social. 
+-   En un primer momento, se identificaron los indicadores disponibles para poder definir los subíndices que componen cada dimensión de la cohesión social.
 
 -   Se estimaron correlaciones entre las variables que conforman cada subíndice para evaluar su asociación.
 
 -   Por último, se realizó un análisis factorial confirmatorio a cada subíndice para validar la estructura teórica de los constructos.
 :::
 
-##
+## 
 
 ![](images/vertical-ocs.svg)
 
 # [Resultados](https://ocs-coes.netlify.app/analisis/visualizador-latam/)
 
-##
+## 
 
 ### ¿Qué podemos decir de la cohesión social en América Latina?
 
 -   Problematizar los resultados, resaltando los avances en la región pero también darle importancia a los desafíos actuales que se pueden observar a partir del visualizador
 
-##
+## 
 
 ### Cierre
 
