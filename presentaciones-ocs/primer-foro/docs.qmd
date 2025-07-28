@@ -13,60 +13,53 @@ format:
     auto-play-media: true
 editor: visual
 ---
+## {data-background-color="#438245"}
+![](images/foro.png)
+
 
 ## Desafíos de la Cohesión Social en Chile y América Latina
 
-### *Observatorio de Cohesión Social*
+ *Castillo, J. C., Laffert, A., Carrasco, K., Cortés, G., Urzúa, T. *
 
 30 de julio del 2025
 
 ![](images/cepal.jpg){width="20%" fig-align="center"} ![](images/ocs-old.jpg){width="20%" fig-align="center"}
 
-## 
+# Concepto
 
-### Proyecto
+## Proyecto
 
 ::::: columns
 ::: {.column width="50%" style="font-size: 25px;"}
--   El Observatorio de Cohesión Social (OCS) es un proyecto enmarcado en el FONDAP° 1523A0005: Centro de Estudios de Conflicto y Cohesión Social
+-   El Observatorio de Cohesión Social (OCS) es un proyecto enmarcado en el FONDAP° 1523A0005: [Centro de Estudios de Conflicto y Cohesión Social](https://coes.cl/)
 
--   Surge el año \[...\] con el objetivo de contribuir al análisis de la cohesión social a través de la investigación empírica
+-   Surge el año 2020 con el objetivo de contribuir al análisis de la cohesión social a través de la investigación empírica
 
--   A lo largo de los años, el OCS ha generado conocimiento sobre las dinámicas de la cohesión social, así como sobre las maneras en que esta ha sido medida. Algunos de estos trabajos se han realizado en conjunto con [CEPAL](https://repositorio.cepal.org/entities/publication/4c36593a-3ab1-4046-8713-9194f6d1c6b0).
+-   EL OCS ha investigado comprometidamente la cohesión social. Algunos de estos trabajos se han realizado en conjunto con [CEPAL](https://repositorio.cepal.org/entities/publication/4c36593a-3ab1-4046-8713-9194f6d1c6b0).
 :::
 
 ::: {.column width="50%"}
-![](images/coes.png){width="70%" fig-align="right"}
+![](images/ocs-new.jpeg){width="100%" fig-align="right"}
 :::
 :::::
 
-## 
+# Esta presentación
 
-### Antecedentes
-
-::: {.incremental .highlight-last style="font-size: 35px;"}
--   Importancia de la cohesión social para la comprensión de la sociedad (relevancia teórica y metodológica).
-
--   Enfoque especial a la cohesión social en América Latina.
-
--   Últimos saberes a partir de la revisión de literatura.
-:::
-
-## 
-
-### Propuesta
+## Cohesión social
 
 ::: {.incremental .highlight-last style="font-size: 35px;"}
 -   Se desarrollaron una serie de **indicadores de cohesión social de América Latina**, basándose en una perspectiva bidimensional que considera aspectos horizontales y verticales (Chan et al., 2006), los cuales pueden ser analizados en visualizadores interactivos.
-
 -   Mientras la *cohesión horizontal* refleja las relaciones dentro de la sociedad civil, la *cohesión vertical* captura la relación entre la ciudadanía y el Estado.
-
--   La mayor virtud de este instrumento es que permite realizar análisis comparativos entre países y entre distintos momentos en el tiempo.
 :::
 
 ## 
+### Propuesta
 
-### Datos
+![](images/esquema.png)
+
+# Metodología
+
+## Datos
 
 ::: {.incremental .highlight-last style="font-size: 35px;"}
 -   Fuente de datos principal: Latin American Public Opinion Project (LAPOP)
@@ -76,9 +69,8 @@ editor: visual
 -   A modo de complementar los datos, se integraron variables de Latinobarómetro, encuesta que también mide la opinión pública respecto a distintas dimensiones de la sociedad.
 :::
 
-## 
+## Métodos
 
-### Métodos
 
 ::: {.incremental .highlight-last style="font-size: 35px;"}
 -   En un primer momento, se identificaron los indicadores disponibles para poder definir los subíndices que componen cada dimensión de la cohesión social.
@@ -88,22 +80,33 @@ editor: visual
 -   Por último, se realizó un análisis factorial confirmatorio a cada subíndice para validar la estructura teórica de los constructos.
 :::
 
-## 
+## Variables
 
-![](images/vertical-ocs.svg)
+Agregar esquema con las variables 
 
-# [Resultados](https://ocs-coes.netlify.app/analisis/visualizador-latam/)
+# Resultados
 
-## 
+##
+![](images/mapa_final.png)
 
-### ¿Qué podemos decir de la cohesión social en América Latina?
+##
+![](images/figura3.png)
+
+##
+![](images/figura4.png)
+
+##
+![](images/figura5.png)
+
+##
+![](images/figura6.png)
+
+## Acceso abierto
+- Los gráficos se construyeron gracias al [visualizador del OCS](https://ocscoes.github.io/web-ocs-coes/analisis/visualizador-latam/)
+
+- Esta herramienta y más información sobre cohesión social disponibles en: <https://ocs-coes.com>
+
+## Conclusiones
 
 -   Problematizar los resultados, resaltando los avances en la región pero también darle importancia a los desafíos actuales que se pueden observar a partir del visualizador
 
-## 
-
-### Cierre
-
--   Mencionar que el visualizador queda a disposición pública, invitando a todos los oyentes a utilizarlo
-
--   Página del OCS para encontrar esta herramienta y más información sobre cohesión social: <https://ocs-coes.com>
