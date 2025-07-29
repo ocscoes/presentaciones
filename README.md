@@ -1,6 +1,6 @@
 # Presentations about social cohesion indicators and related topics
 
-- [Desafíos de la Cohesión Social en Chile y América Latina](https://ocscoes.github.io/presentaciones/presentaciones-ocs/primer-foro/pres-cepal-2025.html)
+- [Desafíos de la Cohesión Social en Chile y América Latina - Foro CEPAL 2025](https://ocscoes.github.io/presentaciones/presentaciones-ocs/primer-foro/pres-cepal-2025.html)
 
 - [Measuring Social Cohesion in Chile with Longitudinal Survey Data - Workshop: International Perspectives on the Measurement of Social Cohesion. Bremen, Jun 2024](https://ocscoes.github.io/presentaciones/FGZ-Bremen-2024.html)
 
