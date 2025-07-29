@@ -13,13 +13,14 @@ format:
     auto-play-media: true
 editor: visual
 ---
-## {data-background-color="#438245"}
-![](images/foro.png)
 
+##  {data-background-color="#438245"}
+
+![](images/foro.png)
 
 ## Desafíos de la Cohesión Social en Chile y América Latina
 
- *Castillo, J. C., Laffert, A., Carrasco, K., Cortés, G., Urzúa, T. *
+*Castillo, J. C., Laffert, A., Carrasco, K., Cortés, G., Urzúa, T.*
 
 30 de julio del 2025
 
@@ -48,15 +49,17 @@ editor: visual
 ## Cohesión social
 
 ::: {.incremental .highlight-last style="font-size: 35px;"}
-
-"Social cohesion is a state of aﬀairs concerning both the **vertical** and the **horizontal** interactions among members of society as characterized by a set of attitudes and norms that includes **trust**, a sense of **belonging** and the willingness to **participate and help**, as well as their behavioural manifestations". (Chan et al., 2006, p. 290). 
+"Social cohesion is a state of aﬀairs concerning both the **vertical** and the **horizontal** interactions among members of society as characterized by a set of attitudes and norms that includes **trust**, a sense of **belonging** and the willingness to **participate and help**, as well as their behavioural manifestations". (Chan et al., 2006, p. 290).
 
 <p style="font-size: 20px; margin-top: 1em;">
+
 Chan, J., To, H.-P., & Chan, E. (2006). Reconsidering Social Cohesion: Developing a Definition and Analytical Framework for Empirical Research. Social Indicators Research, 75(2), 273–302.
+
 </p>
 :::
 
 ## 
+
 ### Propuesta
 
 ![](images/esquema.png)
@@ -74,7 +77,6 @@ Chan, J., To, H.-P., & Chan, E. (2006). Reconsidering Social Cohesion: Developin
 :::
 
 ## Métodos
-
 
 ::: {.incremental .highlight-last style="font-size: 35px;"}
 -   En un primer momento, se identificaron los indicadores disponibles para poder definir los subíndices que componen cada dimensión de la cohesión social.
@@ -94,27 +96,32 @@ Chan, J., To, H.-P., & Chan, E. (2006). Reconsidering Social Cohesion: Developin
 
 # Resultados
 
-##
+## 
+
 ![](images/mapa_final.png)
 
-##
+## 
+
 ![](images/figura3.png)
 
-##
+## 
+
 ![](images/figura4.png)
 
-##
+## 
+
 ![](images/figura5.png)
 
-##
+## 
+
 ![](images/figura6.png)
 
 ## Acceso abierto
-- Los gráficos se construyeron gracias al [visualizador del OCS](https://ocscoes.github.io/web-ocs-coes/analisis/visualizador-latam/)
 
-- Esta herramienta y más información sobre cohesión social disponibles en: <https://ocs-coes.com>
+-   Los gráficos se construyeron gracias al [visualizador del OCS](https://ocscoes.github.io/web-ocs-coes/analisis/visualizador-latam/)
+
+-   Esta herramienta y más información sobre cohesión social disponibles en: <https://ocs-coes.com>
 
 ## Conclusiones
 
 -   Problematizar los resultados, resaltando los avances en la región pero también darle importancia a los desafíos actuales que se pueden observar a partir del visualizador
-
