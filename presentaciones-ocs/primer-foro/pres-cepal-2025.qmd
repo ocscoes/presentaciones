@@ -11,7 +11,7 @@ format:
 # data-background-image: images/cover.jpg
 # data-background-size: cover
     auto-play-media: true
-editor: visual
+editor: source
 ---
 
 ##  {data-background-color="#438245"}
