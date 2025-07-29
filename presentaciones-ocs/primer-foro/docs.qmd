@@ -48,8 +48,12 @@ editor: visual
 ## Cohesión social
 
 ::: {.incremental .highlight-last style="font-size: 35px;"}
--   Se desarrollaron una serie de **indicadores de cohesión social de América Latina**, basándose en una perspectiva bidimensional que considera aspectos horizontales y verticales (Chan et al., 2006), los cuales pueden ser analizados en visualizadores interactivos.
--   Mientras la *cohesión horizontal* refleja las relaciones dentro de la sociedad civil, la *cohesión vertical* captura la relación entre la ciudadanía y el Estado.
+
+"Social cohesion is a state of aﬀairs concerning both the **vertical** and the **horizontal** interactions among members of society as characterized by a set of attitudes and norms that includes **trust**, a sense of **belonging** and the willingness to **participate and help**, as well as their behavioural manifestations". (Chan et al., 2006, p. 290). 
+
+<p style="font-size: 20px; margin-top: 1em;">
+Chan, J., To, H.-P., & Chan, E. (2006). Reconsidering Social Cohesion: Developing a Definition and Analytical Framework for Empirical Research. Social Indicators Research, 75(2), 273–302.
+</p>
 :::
 
 ## 
@@ -82,7 +86,11 @@ editor: visual
 
 ## Variables
 
-Agregar esquema con las variables 
+![](images/vertical.png)
+
+## Variables
+
+![](images/horizontal.png)
 
 # Resultados
 
