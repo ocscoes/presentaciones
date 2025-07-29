@@ -50,12 +50,12 @@ editor: source
 
 ::: {.incremental .highlight-last style="font-size: 35px;"}
 "Social cohesion is a state of aﬀairs concerning both the **vertical** and the **horizontal** interactions among members of society as characterized by a set of attitudes and norms that includes **trust**, a sense of **belonging** and the willingness to **participate and help**, as well as their behavioural manifestations". (Chan et al., 2006, p. 290).
+:::
 
-<p style="font-size: 20px; margin-top: 1em;">
+<br>
 
+::: {.highlight-last style="font-size: 25px;"}
 Chan, J., To, H.-P., & Chan, E. (2006). Reconsidering Social Cohesion: Developing a Definition and Analytical Framework for Empirical Research. Social Indicators Research, 75(2), 273–302.
-
-</p>
 :::
 
 ## 
@@ -90,9 +90,17 @@ Chan, J., To, H.-P., & Chan, E. (2006). Reconsidering Social Cohesion: Developin
 
 ![](images/vertical.png)
 
+::: {.highlight-last style="font-size: 25px;"}
+Fuente: [Reporte Técnico OCS 2025: Medición de Cohesión Social LA](https://ocscoes.github.io/medicion-cohesion-LA/)
+:::
+
 ## Variables
 
 ![](images/horizontal.png)
+
+::: {.highlight-last style="font-size: 25px;"}
+Fuente: [Reporte Técnico OCS 2025: Medición de Cohesión Social LA](https://ocscoes.github.io/medicion-cohesion-LA/)
+:::
 
 # Resultados
 
