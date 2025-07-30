@@ -125,7 +125,7 @@ Chan, J., To, H.-P., & Chan, E. (2006). Reconsidering Social Cohesion: Developin
 ## Métodos
 
 ::: {.incremental .highlight-last style="font-size: 35px;"}
--   Identidicación de indicadores disponibles para operacionalizar los subíndices que componen cada dimensión de la cohesión social.
+-   Identificación de indicadores disponibles para operacionalizar los subíndices que componen cada dimensión de la cohesión social.
 
 -   Estimación de correlaciones entre las variables que conforman cada subíndice para evaluar su asociación.
 
@@ -186,21 +186,20 @@ Fuente: [Reporte Técnico OCS 2025: Medición de Cohesión Social LA](https://oc
 
 ### Análisis adicionales
 
-- Mediante nuestro [visualizador interactivo OCS para América Latina](https://ocscoes.github.io/web-ocs-coes/analisis/visualizador-latam/){target="_blank"}
+- Mediante nuestro [visualizador interactivo OCS para América Latina](https://ocs-coes.com/){target="_blank"}
 
--   Esta herramienta y más información sobre cohesión social disponibles en: [coes.cl/ocs](){target="_blank"} 
 
 # Pasos a futuro {data-background-color="#000000"}
 
 ##
 
-- Reportes temáticos de cohesión social
+- Reportes temáticos y artículos sobre cohesión social
 
 - Visualizador para Chile en base a encuesta panel ELSOC (2016-2023)
 
-- Foro cohesión horizontal - foco en migración (CEP, 9 de Septiembre 18:30 hrs) -> lanzamiento visualizador interactivo panel ELSOC
+- Foro 2: Cohesión horizontal - foco en migración (CEP, 9 de Septiembre 18:30 hrs) -> lanzamiento visualizador interactivo panel ELSOC
 
-- Foro cohesión vertical y desafíos de la democracia (Conferencia COES, 22-24 de Octubre)
+- Foro 3: Cohesión vertical y desafíos de la democracia (Conferencia COES, 22-24 de Octubre)
 
 
 # {.hide-logo data-background-color="#438245"}
