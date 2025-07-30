@@ -30,6 +30,10 @@ $code-block-border-color: #93a1a1 !default;
 
 /*-- scss:rules --*/
 .reveal .footer {
- color: #830065 !important;
+ color: #1b241f !important;
 
+}
+
+.hide-logo .slide-logo {
+  display: none !important;
 }

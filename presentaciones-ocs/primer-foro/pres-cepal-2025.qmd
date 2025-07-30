@@ -1,8 +1,7 @@
 ---
 format:
   revealjs:
-    logo: images/logo-ocs.jpeg
-    slide-number: true
+    logo: images/ocs-transparent.png
     theme: [ocs.scss]
     title-slide-attributes:
       visibility: false
@@ -11,45 +10,82 @@ format:
 # data-background-image: images/cover.jpg
 # data-background-size: cover
     auto-play-media: true
+    title-slide-logo: false
 editor: source
 ---
 
-##  {data-background-color="#438245"}
+# {.hide-logo data-background-color="#438245"}
 
-![](images/foro.png)
+![](images/foro.png){width="40%"}
 
-## Desafíos de la Cohesión Social en Chile y América Latina
+# {data-background-color="#438245"}
 
-*Castillo, J. C., Laffert, A., Carrasco, K., Cortés, G., Urzúa, T.*
+###
+![](images/ocs-green.png){width="20%"}
 
-30 de julio del 2025
+### **Desafíos de la Cohesión Social en Chile y América Latina**
 
-![](images/cepal.jpg){width="20%" fig-align="center"} ![](images/ocs-old.jpg){width="20%" fig-align="center"}
+<hr>
 
-# Concepto
+1er Foro de Cohesión Social 2025 (CEPAL-COES)
 
-## Proyecto
+<br>
+<span style="font-size: 30px;">
+Juan Carlos Castillo - Universidad de Chile / COES
+</span>
+
+
+
+<span style="font-size: 30px;">
+Andreas Laffert, Kevin Carrasco, Gabriel Cortés & Tomás Urzúa - Observatorio de Cohesión Social
+</span>
+
+<span style="font-size: 20px;">
+CEPAL, 30 de julio de 2025
+</span>
+
+# Concepto {data-background-color="#1b241f"}
+
+<br>
+
+**_¿De qué hablamos cuando hablamos de cohesión social?_**
+
+## 
 
 ::::: columns
-::: {.column width="50%" style="font-size: 25px;"}
--   El Observatorio de Cohesión Social (OCS) es un proyecto enmarcado en el FONDAP° 1523A0005: [Centro de Estudios de Conflicto y Cohesión Social](https://coes.cl/)
+::: {.column width="35%"}
 
--   Surge el año 2020 con el objetivo de contribuir al análisis de la cohesión social a través de la investigación empírica
+<br>
 
--   EL OCS ha investigado comprometidamente la cohesión social. Algunos de estos trabajos se han realizado en conjunto con [CEPAL](https://repositorio.cepal.org/entities/publication/4c36593a-3ab1-4046-8713-9194f6d1c6b0).
+![](images/ocs-transparent2.png){width="100%" fig-align="right"}
 :::
 
-::: {.column width="50%"}
-![](images/ocs-new.jpeg){width="100%" fig-align="right"}
+:::{.column width="10%"}
+
+:::
+
+::: {.column width="55%" style="font-size: 25px; text-align: center; margin: 0 auto;"}
+
+<br>
+
+-   [El Observatorio de Cohesión Social (OCS)](https://ocs-coes.com/){target="_blank"} es un proyecto enmarcado en el FONDAP° 1523A0005: [Centro de Estudios de Conflicto y Cohesión Social](https://coes.cl/){target="_blank"}
+
+-   Surge el año 2020 con el objetivo de contribuir al análisis de la cohesión social en Chile y América latina
+
+-  Se basa en la experiencia de proyectos internacionales de conceptualización y medición de cohesión social
+
 :::
 :::::
 
-# Esta presentación
+## 
 
-## Cohesión social
+### Cohesión social
+
+<br>
 
 ::: {.incremental .highlight-last style="font-size: 35px;"}
-"Social cohesion is a state of aﬀairs concerning both the **vertical** and the **horizontal** interactions among members of society as characterized by a set of attitudes and norms that includes **trust**, a sense of **belonging** and the willingness to **participate and help**, as well as their behavioural manifestations". (Chan et al., 2006, p. 290).
+
+_"Social cohesion is a state of aﬀairs concerning both the **vertical** and the **horizontal** interactions among members of society as characterized by a set of attitudes and norms that includes **trust**, a sense of **belonging** and the willingness to **participate and help**, as well as their behavioural manifestations". (Chan et al., 2006, p. 290)._
 :::
 
 <br>
@@ -60,11 +96,21 @@ Chan, J., To, H.-P., & Chan, E. (2006). Reconsidering Social Cohesion: Developin
 
 ## 
 
-### Propuesta
+### Pasos
 
-![](images/esquema.png)
+- Definición de dimensiones y subdimensiones
 
-# Metodología
+- Generación de indicadores en base a datos secundarios de encuestas 
+
+- Análisis de dimensionalidad y consistencia interna
+
+- Generación de visualizador interactivo
+
+## 
+
+![](images/esquema.png){width="60%"}
+
+# Metodología {data-background-color="#1b241f"}
 
 ## Datos
 
@@ -73,63 +119,102 @@ Chan, J., To, H.-P., & Chan, E. (2006). Reconsidering Social Cohesion: Developin
 
 -   Encuesta aplicada desde el 2004 en 34 países. Hasta la fecha, el estudio tiene 10 olas.
 
--   A modo de complementar los datos, se integraron variables de Latinobarómetro, encuesta que también mide la opinión pública respecto a distintas dimensiones de la sociedad.
+-   Algunos indicadores se complementan con información  de Latinobarómetro
 :::
 
 ## Métodos
 
 ::: {.incremental .highlight-last style="font-size: 35px;"}
--   En un primer momento, se identificaron los indicadores disponibles para poder definir los subíndices que componen cada dimensión de la cohesión social.
+-   Identidicación de indicadores disponibles para operacionalizar los subíndices que componen cada dimensión de la cohesión social.
 
--   Se estimaron correlaciones entre las variables que conforman cada subíndice para evaluar su asociación.
+-   Estimación de correlaciones entre las variables que conforman cada subíndice para evaluar su asociación.
 
--   Por último, se realizó un análisis factorial confirmatorio a cada subíndice para validar la estructura teórica de los constructos.
+-   Análisis factorial confirmatorio a cada subíndice para validar la estructura teórica de los constructos.
 :::
 
-## Variables
+## 
 
-![](images/vertical.png)
+![](images/vertical.png){width="60%"}
 
 ::: {.highlight-last style="font-size: 25px;"}
-Fuente: [Reporte Técnico OCS 2025: Medición de Cohesión Social LA](https://ocscoes.github.io/medicion-cohesion-LA/)
+Fuente: [Reporte Técnico OCS 2025: Medición de Cohesión Social LA](https://ocscoes.github.io/medicion-cohesion-LA/){target="_blank"}
 :::
 
-## Variables
+## 
 
-![](images/horizontal.png)
+![](images/horizontal.png){width="60%"}
 
 ::: {.highlight-last style="font-size: 25px;"}
-Fuente: [Reporte Técnico OCS 2025: Medición de Cohesión Social LA](https://ocscoes.github.io/medicion-cohesion-LA/)
+Fuente: [Reporte Técnico OCS 2025: Medición de Cohesión Social LA](https://ocscoes.github.io/medicion-cohesion-LA/){target="_blank"}
 :::
 
-# Resultados
+# Resultados {data-background-color="#1b241f"}
 
 ## 
 
-![](images/mapa_final.png)
+### Cohesión social general
+
+![](images/mapa_final.png){width="60%"}
 
 ## 
 
-![](images/figura3.png)
+### Cohesión vertical
+<br>
+
+![](images/figura3.png){width="60%"}
 
 ## 
 
-![](images/figura4.png)
+### Cohesión Horizontal
+
+![](images/figura4.png){width="60%"}
 
 ## 
 
-![](images/figura5.png)
+### Desigualdad económica y cohesión vertical (2022)
+
+
+![](images/figura5.png){width="60%"}
 
 ## 
 
-![](images/figura6.png)
+### PIB y cohesión horizontal (2022)
 
-## Acceso abierto
+![](images/figura6.png){width="60%"}
 
--   Los gráficos se construyeron gracias al [visualizador del OCS](https://ocscoes.github.io/web-ocs-coes/analisis/visualizador-latam/)
+## 
 
--   Esta herramienta y más información sobre cohesión social disponibles en: <https://ocs-coes.com>
+### Análisis adicionales
 
-## Conclusiones
+- Mediante nuestro [visualizador interactivo OCS para América Latina](https://ocscoes.github.io/web-ocs-coes/analisis/visualizador-latam/){target="_blank"}
 
--   Problematizar los resultados, resaltando los avances en la región pero también darle importancia a los desafíos actuales que se pueden observar a partir del visualizador
+-   Esta herramienta y más información sobre cohesión social disponibles en: [coes.cl/ocs](){target="_blank"} 
+
+# Pasos a futuro {data-background-color="#000000"}
+
+##
+
+- Reportes temáticos de cohesión social
+
+- Visualizador para Chile en base a encuesta panel ELSOC (2016-2023)
+
+- Foro cohesión horizontal - foco en migración (CEP, 9 de Septiembre 18:30 hrs) -> lanzamiento visualizador interactivo panel ELSOC
+
+- Foro cohesión vertical y desafíos de la democracia (Conferencia COES, 22-24 de Octubre)
+
+
+# {.hide-logo data-background-color="#438245"}
+
+
+### Gracias por su atención! {style="text-align: right;"}
+
+<p align="right">
+  <img src="images/ocs-transparent.png" width="78%">
+</p>
+
+
+<p align="right">
+  <a href="https://ocs-coes.com/" style="color:rgb(10, 40, 11); font-size: 3.45em; text-decoration: none;">
+    coes.cl/ocs
+  </a>
+</p>
