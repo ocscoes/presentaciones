@@ -29,6 +29,12 @@ last year I was a research assistant at the Social Cohesion Observatory where on
 
 :::
 
+:::{.notes}
+
+Based on these two main factors, VISELSOC finds its motivation
+
+:::
+
 ## Data
 
 :::{.incremental .highlight-last}
@@ -43,7 +49,7 @@ last year I was a research assistant at the Social Cohesion Observatory where on
 
 :::{.notes}
 
-We used secondary data from Chilean Longitudinal Social Study, a representative survey of Chile’s urban population that tuns every year from 2016 (two thousand sixteen) to 2023 (two thousand twenty-three), making it a unique source of information of its kind in Chile and Latin America. 
+We used secondary data from the Chilean Longitudinal Social Study, a representative survey of Chile’s urban population that runs every year from 2016 (two thousand sixteen) to 2023 (two thousand twenty-three), making it a unique source of information of its kind in Chile and Latin America. 
 
 For the creation of the visualizer, only respondents who participated in at least three waves of the study were considered, resulting in a total of three thousand six hundred sixty-six individuals.
 
