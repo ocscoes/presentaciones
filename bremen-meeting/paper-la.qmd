@@ -86,17 +86,16 @@ Universität Bremen
 
 
 
-# {.project-context-slide data-background-color="#2f0202"}
+# {.project-context-slide .question-slide data-background-color="#2f0202"}
 
-::: {.highlight-last style="font-size:45px; flex-direction:column; justify-content:center; gap:2em;"}
+<br>
 
-*What have been the regional and national trends over the past two decades in the area of social cohesion in Latin America?*  
+*How are the regional and national trends over the past two decades in social cohesion in Latin America?*  
 
 <br>
 
 *What are the main factors associated with these changes?*
 
-:::
 
 # Theoretical and empirical background {.project-context-slide data-background-color="#2f0202"}
 
@@ -143,37 +142,35 @@ _“is a state of affairs concerning both the vertical and the horizontal intera
 Chan, J., To, H.-P., & Chan, E. (2006). Reconsidering Social Cohesion: Developing a Definition and Analytical Framework for Empirical Research. Social Indicators Research, 75(2), 273–302.
 :::
 
-##
+## Dimensions of social cohesion
 
-![](images/esquema-al.png)
+![](https://ocscoes.github.io/paper-proyecto-cierre/input/esquema.png)
 
 [Methodological document: Social Cohesion in Latin America](https://ocscoes.github.io/medicion-cohesion-LA/)
 
-## ¿How social cohesion has been studied?
-
-- <div style="margin-bottom: 1.5em;">Relevant studies on social cohesion at the international level: Social Cohesion Radar, Ecosocial, VISLATAM.</div>
-
-:::{.incremental style="font-size: 35px;"}
-- <div style="margin-bottom: 1.5em; font-size: 35px;">These studies have helped to develop various frameworks for social cohesion, enabling comparative studies across countries.</div>
-:::
-
 ## Associated factors 
 
-<div style="margin-bottom: 1.5em; font-size: 30px;">Individual factors:
+::: columns
+::: {.column width="45%"}
 
-- Educational level
-</div>
+***Individual level:***
 
-:::{.incremental style="font-size: 30px;"}
-<div style="margin-bottom: 1.5em;">Macrostructural factors: 
+- Education
+
+:::
+
+::: {.column width="45%"}
+
+***Country level***
 
 - Economic development
 - Governance
 - Economic inequality
 - Migrant population
-</div>
-
 :::
+:::
+
+<br>
 
 <div style="margin-bottom: 1.5em; font-size: 30px;">[@somma_paradojas_2015; @janmaat_social_2010; @delhey_social_2018; @delhey_social_2023; @castillo_social_2023]</div>
 
@@ -207,11 +204,14 @@ Both the absolute value of the hypothesis’s directionality and the change over
 
 ## Data
 
-- <div style="margin-bottom: 2em; font-size: 35px;">The data comes primarily from the survey conducted by the [Latin American Public Opinion Project.](https://ropercenter.cornell.edu/latin-american-public-opinion-project-lapop) To supplement this, data from Latinobarómetro and the World Values Survey was used.</div>
+- The data comes primarily from the [Latin American Public Opinion Project.](https://ropercenter.cornell.edu/latin-american-public-opinion-project-lapop) 
+  
 
-::: {.incremental style="font-size: 35px;"}
+::: {.incremental}
 
-- <div style="margin-bottom: 2em;">This study includes a sample of N = 179,377 individuals across 174 country waves in 25 countries, covering the period from 2004 to 2023.</div>
+- Some suplements from Latinobarómetro and the World Values Survey
+
+- Sample of N = 179,377 individuals across 174 country waves in 25 countries, covering the period from 2004 to 2023.
 :::
 
 
@@ -235,63 +235,70 @@ Horizontal cohesion is measured by public safety, which addresses subjective saf
 :::
 
 
-## Method
+## Methods
 
-- <div style="margin-bottom: 1.5em; font-size: 35px;">To validate the conceptual model that was developed, a confirmatory factor analysis was conducted.</div>
+- <div style="margin-bottom: 1.5em; font-size: 35px;">CFA to validate the conceptual model</div>
 
 :::{.incremental style="font-size: 35px;"}
 
-- <div style="margin-bottom: 1.5em;">Hybrid multilevel regression models [@schmidt-catran_random_2016].</div>
+- <div style="margin-bottom: 1.5em;">Hybrid multilevel regression models [@schmidt-catran_random_2016]:</div>
   
-- <div style="margin-bottom: 1.5em;">$y_{jti} = \beta_{0}(t) + \beta_{1}X_{jti} + \gamma_{be}\bar{Z}_{j} + \gamma_{we}(Z_{jt}-\bar{Z}_{j}) + v_j + u_{jt} + e_{jti}$</div>
+- <div style="margin-bottom: 1.5em;">$y_{jti} = \beta_{0}(t) + \beta_{1}X_{jti} + \gamma_{be}\bar{Z}_{j} + \gamma_{we}(Z_{jt}-\bar{Z}_{j}) + v_j + u_{jt} + e_{jti}$ </div>
 
 :::
 
 # Results {.project-context-slide data-background-color="#2f0202"}
 
+## CFA
 
-##
+![](https://ocscoes.github.io/paper-proyecto-cierre/index_files/figure-html/fig-afc-1.png)
 
-:::{.notes}
-Longitudinal descriptive
+
+## Social cohesion over time
+
+
+
+
+##  Migration
+
+
+::: {.columns}
+
+::: {.column width="55%"}
+Horizontal
 :::
 
-![](images/fig-cs-1.png)
-
-
-##
-
-:::{.notes}
-Associations
+::: {.column width="45%"}
+Vertical
 :::
 
-![](images/fig-hor-cor-1.png)
-
-##
-
-![](images/fig-ver-cor-1.png)
-
-##
-
-:::{.notes}
-models level 1
 :::
+
+![](images/migration.png)
+
+
+## Individual level
 
 ![](images/fig-coef-individual-1.png)
 
-## 
+## Macro level
 
-:::{.notes}
-Interactions
-:::
-
-![](images/coefplot-1.png)
+![](images/level2.png)
 
 
 ## Discussion {.project-context-slide data-background-color="#2f0202"}
 
+::: {.incremental}
 
+- Decrease of social cohesion overall
 
+- Inequality is related negatively with social cohesion
+
+- Positive effect of governance
+
+- Negative migration?
+
+:::
 
 
 :::{.notes}

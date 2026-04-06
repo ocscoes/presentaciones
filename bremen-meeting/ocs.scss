@@ -75,3 +75,18 @@ $code-block-border-color: #93a1a1 !default;
   margin: 0;
   text-align: right;
 }
+
+.reveal .slides section.question-slide {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100% !important;
+}
+
+.reveal .slides section.question-slide > h1 {
+  display: none;
+}
+
+.reveal .slides section.question-slide > p {
+  text-align: center;
+}
