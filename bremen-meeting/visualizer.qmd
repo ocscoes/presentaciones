@@ -9,16 +9,6 @@ format:
 editor: source  
 ---
 
-# VISELSOC {data-background-color="#212525"}
-
-:::{.notes}
-
-Good morning to everyone, I am Tomás Urzúa, 
-
-last year I was a research assistant at the Social Cohesion Observatory where one of my principles tasks was the development of the Longitudinal Visualizer of Social Cohesion in Chile
-
-:::
-
 ## Why VISELSOC?
 
 :::{.incremental .highlight-last}
@@ -31,7 +21,15 @@ last year I was a research assistant at the Social Cohesion Observatory where on
 
 :::{.notes}
 
-Based on these two main factors, VISELSOC finds its motivation
+Good morning to everyone, I am Tomás Urzúa, 
+
+last year I was a research assistant at the Social Cohesion Observatory where one of my principles tasks was the d**i**velopment of the Longitudinal Visualizer of Social Cohesion in Chile
+
+and we had two motivations behind this project:
+
+- F{**e**}rst, we had built already a visualizer for Latin America, but we didn’t have something specifically focused on Chile
+
+- and second, in COES we had a panel survey which is ELSOC and last year we had a special funding since it was the last year of COES, so we decided to apply what we learn from the experience with VISLATAM to ELSOC data
 
 :::
 
@@ -71,7 +69,7 @@ For the creation of the visualizer, only respondents who participated in at leas
 
 The measurement with social cohesion in VISELSOC is quite similar to VISLATAM as both make the distinction between horizontal and vertical dimensions proposed by Chan et al **in** (2006)
 
-But the main difference is that with ELSOC, we have more items for analyzing social cohesion than VISLATAM, and we could **develop** a more comprehensive measurement framework for Chile
+But the main difference is that with ELSOC, we have more items for analyzing social cohesion than VISLATAM, and we could d**i**velop a more comprehensive measurement framework for Chile
 
 :::
 
@@ -97,7 +95,7 @@ Social networks are composed of three subdimensions: prosocial behavior, financi
 
 :::{.notes}
 
-For **vertical cohesion**, we have four subdimensions. First, Trust in institutions, which measures trust in various political institutions such as the government, political parties, and Congress
+For **vertical cohesion**, we have four subdimensions. First, Trust in institutions, which measures trust in various political institutions such as the government, the political parties, and the Congress
 
 Second, political attitudes and participation which includes political self-efficacy, political interest and political participation
 
@@ -119,7 +117,7 @@ Finally, we have distributive justice that is composed by how unfair people cons
 
 :::{.notes}
 
-such as descriptive analyses, correlation matrices, both exploratory and confirmatory factor analysis to verify that the model’s underlying structure was optimal for its application in the Chilean context.
+We applied a several analytical tekn**í**ks for to arrive at the final version of the measurement framework such as descriptive analyses, correlation matrices, both exploratory and confirmatory factor analysis to verify that the model’s underlying structure was optimal for its application in the Chilean context.
 
 Although we confirmed the factor structure of the data, all sub-dimensions were calculated as average indices to facilitate the interpretation of the results
 
@@ -129,7 +127,7 @@ Although we confirmed the factor structure of the data, all sub-dimensions were 
 
 :::{.incremental .highlight-last}
 
-- The visualizer was created entirely by the team at the Observatory of Social Cohesion (OCS).
+- The visualizer was completely created by the team at the Observatory of Social Cohesion (OCS).
 
 - It was built using code with Quarto and Shiny App.
 
@@ -139,6 +137,12 @@ Although we confirmed the factor structure of the data, all sub-dimensions were 
 
 :::{.notes}
 
+- The visualizer was completely created by the team at the Observatory of Social Cohesion
+
+- also it was built using code with Quarto and Shiny App
+
+- and its source code is open access and can be found in our GitHub repository
+
 - I don´t know if all of you are familiar with Quarto, but Quarto is an open-source **pəbliSHiNG** system that allows you to create dynamic, reproducible documents, while Shiny App is a Quarto output format that enables the creation of interactive web applications.
 
 :::
@@ -146,4 +150,35 @@ Although we confirmed the factor structure of the data, all sub-dimensions were 
 
 # Results [VISELSOC](https://ocs-coes.shinyapps.io/ocs-viselsoc/#)
 
+:::{.notes}
 
+Now I would like to show you what we can do with VISELSOC. So, the visualizer has three types of analyses. 
+
+Longitudinal
+
+First, we have the longitudinal section, where we can observe the subdimensions and how they change over time. 
+
+So let’s focus on trust on political institutions
+
+To understand the plot, the x-axis shows the years as categories, and the “wai”-axis shows the number of people who rated the highest categories—that is, 4 and 5—in terms of percentage
+
+Now, using the data provided by the graph, we can see that trust in institutions fluctuates over time, reaching its lowest point in 2019. This can be explained by the social crisis Chile experienced that year, a contentious period known as the “social uprising.” 
+
+Ranking
+
+In the ranking section, we can select a sub-dimension and compare the indicators that make it up, so let’s continue with trust in political institutions
+
+First, we can see that at the right bottom there are the legends to every item. So, we can see the exact percentage when we hover over a chart.
+
+In this case, trust in the government is an indicator that has change drastically over time, reaching a high of 40% and a low of 16% the following year. On the other hand, trust in political parties is at a historic low, having peaked just 14% at 2018
+
+
+Bivariate
+
+And finally we have the bivariate section, where  we can plot the available subdimensions, but with the added benefit of being able to observe differences by category.
+
+So let’s cross trust in political institutions with education
+
+These were just a couple of examples of what we can do with VISELSOC, and we think that it could be interesting for you in case you would like to make something similar with your panel data.
+
+:::
