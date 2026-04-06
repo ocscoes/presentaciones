@@ -53,7 +53,7 @@ Universität Bremen
 :::
 ::::
 
-# Project context {data-background-color="#1b241f"}
+# Project context {.project-context-slide data-background-color="#2f0202"}
 
 ## 
 
@@ -86,17 +86,19 @@ Universität Bremen
 
 
 
-## {data-background-color="#1b241f"}
+# {.project-context-slide data-background-color="#2f0202"}
 
-::: {.highlight-last style="font-size:45px; text-align:center; display:flex; flex-direction:column; justify-content:center; height:80vh; gap:2em;"}
+::: {.highlight-last style="font-size:45px; flex-direction:column; justify-content:center; gap:2em;"}
 
 *What have been the regional and national trends over the past two decades in the area of social cohesion in Latin America?*  
+
+<br>
 
 *What are the main factors associated with these changes?*
 
 :::
 
-# Theoretical and empirical background {data-background-color="#1b241f"}
+# Theoretical and empirical background {.project-context-slide data-background-color="#2f0202"}
 
 ##
 
@@ -175,7 +177,7 @@ Chan, J., To, H.-P., & Chan, E. (2006). Reconsidering Social Cohesion: Developin
 
 <div style="margin-bottom: 1.5em; font-size: 30px;">[@somma_paradojas_2015; @janmaat_social_2010; @delhey_social_2018; @delhey_social_2023; @castillo_social_2023]</div>
 
-# Hipotheses {data-background-color="#1b241f"}
+# Hypotheses {.project-context-slide data-background-color="#2f0202"}
 
 ##
 
@@ -201,7 +203,7 @@ Both the absolute value of the hypothesis’s directionality and the change over
 :::
 
 
-# Methodology {data-background-color="#1b241f"}
+# Methodology {.project-context-slide data-background-color="#2f0202"}
 
 ## Data
 
@@ -245,7 +247,7 @@ Horizontal cohesion is measured by public safety, which addresses subjective saf
 
 :::
 
-# Results {data-background-color="#1b241f"}
+# Results {.project-context-slide data-background-color="#2f0202"}
 
 
 ##
@@ -286,7 +288,7 @@ Interactions
 ![](images/coefplot-1.png)
 
 
-## Discusions
+## Discussion {.project-context-slide data-background-color="#2f0202"}
 
 
 

@@ -200,6 +200,7 @@ Fuente: [Reporte Técnico OCS 2025: Medición de Cohesión Social LA](https://oc
 - Foro 2: Cohesión horizontal - foco en migración (CEP, 9 de Septiembre 18:30 hrs) -> lanzamiento visualizador interactivo panel ELSOC
 
 - Foro 3: Cohesión vertical y desafíos de la democracia (Conferencia COES, 22-24 de Octubre)
+  
 
 
 # {.hide-logo data-background-color="#438245"}

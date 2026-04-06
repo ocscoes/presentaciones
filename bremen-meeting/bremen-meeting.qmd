@@ -30,21 +30,22 @@ lang: es
 
 ::: {.column .column-right width="80%" }
 
-## **Two decades of changes in social cohesion in Latin America (2004-2023)** {style="text-align: right;"}
+## COES & Observatory of Social Cohesion: {style="text-align: right;"}
+
+### Updates & projections {style="text-align: right;"}
 
 ------------------------------------------------------------------------
 
-<div style="font-size: 25px; text-align: right;">
+<div style="font-size: 30px; text-align: right; color: #A32508;">
 
-**Juan Carlos Castillo, Julio Iturra, Gabriel Cortés & Tomás Urzúa**
-
+**Juan Carlos Castillo^1^, Tomás Urzúa^1^, Andreas Laffert^1^ & Julio Iturra^2^**
 </div>
 
 <br>
-
 <div style="font-size: 25px; text-align: right;">
 
-**Department of Sociology, Universidad de Chile**  
+**^1^Department of Sociology, Universidad de Chile**  
+**^2^Bremen International Graduate School of Social Sciences** 
 
 </div>
 
@@ -61,8 +62,91 @@ Universität Bremen
 :::
 ::::
 
+# Contents {data-background-color="#2f0202" style="text-align: right;"}
+
+<div style="height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: flex-end; text-align: right;">
+
+- [Updates on the COES & OCS project]{style="color: #fff;"}
+- [ELSOC Panel Visualization]{style="color: #fff;"}
+- [Social Cohesion in Latin America paper]{style="color: #fff;"}
+- [Comparative vignette study (Julio Iturra)]{style="color: #fff;"}
+
+</div>
+
+# Contents {data-background-color="#2f0202" style="text-align: right;"}
+
+<div style="height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: flex-end; text-align: right;">
+
+- Updates on the COES & OCS project
+- [ELSOC Panel Visualization]{style="color: #7c4848;"}
+- [Social Cohesion in Latin America paper]{style="color: #7c4848;"}
+- [Comparative vignette study (Julio Iturra)]{style="color: #7c4848;"}
+
+</div>
+
+
+# COES
+
+- End of funding
+- Universidad de Chile 2026 funding
+- OCS projection 2026
+  - add wave to Latin America visualizer
+  - improve ELSOC panel visualization
+
+# Latin America Visualizer (VISLATAM)
+
+- based on LAPOP survey data
+  - 20+ countries, 2004-2022 (11 waves)
+  - democracy, social cohesion, trust, etc.
+  - 23 countries
+  - more than 400.000 cases
+
+- [link to visualizer VISLATAM](https://ocs-coes.shinyapps.io/visualizador-la/)
+
+## Conceptual & measurement model: horizontal 
+
+![](https://ocscoes.github.io/presentaciones/presentaciones-ocs/primer-foro/images/horizontal.png)
+
+## Conceptual & measurement model: vertical
+
+![](https://ocscoes.github.io/presentaciones/presentaciones-ocs/primer-foro/images/vertical.png)
+
+# Contents {data-background-color="#2f0202" style="text-align: right;"}
+
+<div style="height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: flex-end; text-align: right;">
+
+- [Updates on the COES & OCS project]{style="color: #7c4848;"}
+- [ELSOC Panel Visualization]{style="color: #fff;"}
+- [Social Cohesion in Latin America paper]{style="color: #7c4848;"}
+- [Comparative vignette study (Julio Iturra)]{style="color: #7c4848;"}
+
+</div>
+
+{{< include visualizer.qmd >}}
+
+# Contents {data-background-color="#2f0202" style="text-align: right;"}
+
+<div style="height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: flex-end; text-align: right;">
+
+- [Updates on the COES & OCS project]{style="color: #7c4848;"}
+- [ELSOC Panel Visualization]{style="color: #7c4848;"}
+- [Social Cohesion in Latin America paper]{style="color: #fff;"}
+- [Comparative vignette study (Julio Iturra)]{style="color: #7c4848;"}
+
+</div>
+
 {{< include paper-la.qmd >}}
 
 
+# Contents {data-background-color="#2f0202" style="text-align: right;"}
 
+<div style="height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: flex-end; text-align: right;">
 
+- [Updates on the COES & OCS project]{style="color: #7c4848;"}
+- [ELSOC Panel Visualization]{style="color: #7c4848;"}
+- [Social Cohesion in Latin America paper]{style="color: #7c4848;"}
+- [Comparative vignette study (Julio Iturra)]{style="color: #fff;"}
+
+</div>
+
+# References
