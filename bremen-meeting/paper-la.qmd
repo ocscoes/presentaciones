@@ -144,7 +144,7 @@ Chan, J., To, H.-P., & Chan, E. (2006). Reconsidering Social Cohesion: Developin
 
 ## Dimensions of social cohesion
 
-![](https://ocscoes.github.io/paper-proyecto-cierre/input/esquema.png)
+![](https://ocscoes.github.io/paper-proyecto-cierre/input/esquema.png){width="150%" fig-align="center"}
 
 [Methodological document: Social Cohesion in Latin America](https://ocscoes.github.io/medicion-cohesion-LA/)
 
@@ -223,7 +223,7 @@ Both the absolute value of the hypothesis’s directionality and the change over
 
 - <div style="margin-bottom: 2em;">Individual independent variables: educational level.</div>
 
-- <div style="margin-bottom: 2em;">Contextual independent variables: GDP per capita, Gini Index, Electoral Democracy Index, Governance Index, Cultural diversity.</div>
+- <div style="margin-bottom: 2em;">Contextual independent variables: GDP per capita, Gini Index, Electoral Democracy Index (VDEM), Governance Index (WB), migration rate.</div>
 :::
 
 :::{.notes}
@@ -256,7 +256,7 @@ Horizontal cohesion is measured by public safety, which addresses subjective saf
 
 ## Social cohesion over time
 
-
+![](images/fig-cs-1.png)
 
 
 ##  Migration
@@ -296,6 +296,8 @@ Vertical
 
 - Positive effect of governance
 
+- Negative electoral democracy?
+
 - Negative migration?
 
 :::
@@ -304,5 +306,3 @@ Vertical
 :::{.notes}
 Para cerrar, solo volver a recalcar la relevancia de este estudio, que con sus limitaciones y con lo que falta por hacer ya muestran resultados prometedores. Hay pocos estudios que se enfocan en comprender la cohesión social desde una perspectiva longitudinal y multinivel, menos para América Latina, y creemos que los hallazgos que esta investigación pueda entregar son importante para aportar, desde los datos, a la discusión académica y política de la cohesión social. 
 :::
-
-## References

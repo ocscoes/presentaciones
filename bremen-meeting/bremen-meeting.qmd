@@ -64,9 +64,11 @@ Universität Bremen
 
 # Contents {data-background-color="#2f0202" style="text-align: right;"}
 
+<br>
+
 <div style="height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: flex-end; text-align: right;">
 
-- [Updates on the COES & OCS project]{style="color: #fff;"}
+- [Updates on  COES & OCS projects]{style="color: #fff;"}
 - [ELSOC Panel Visualization]{style="color: #fff;"}
 - [Social Cohesion in Latin America paper]{style="color: #fff;"}
 - [Comparative vignette study (Julio Iturra)]{style="color: #fff;"}
@@ -75,9 +77,11 @@ Universität Bremen
 
 # Contents {data-background-color="#2f0202" style="text-align: right;"}
 
+<br>
+
 <div style="height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: flex-end; text-align: right;">
 
-- Updates on the COES & OCS project
+- Updates on  COES & OCS projects
 - [ELSOC Panel Visualization]{style="color: #7c4848;"}
 - [Social Cohesion in Latin America paper]{style="color: #7c4848;"}
 - [Comparative vignette study (Julio Iturra)]{style="color: #7c4848;"}
@@ -89,9 +93,10 @@ Universität Bremen
 
 - End of funding
 - Universidad de Chile 2026 funding
-- OCS projection 2026
-  - add wave to Latin America visualizer
+- OCS projections 2026
   - improve ELSOC panel visualization
+  - submit paper on social cohesion in Latin America
+  - comparative vignette study paper
 
 # Latin America Visualizer (VISLATAM)
 
@@ -113,9 +118,11 @@ Universität Bremen
 
 # Contents {data-background-color="#2f0202" style="text-align: right;"}
 
+<br>
+
 <div style="height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: flex-end; text-align: right;">
 
-- [Updates on the COES & OCS project]{style="color: #7c4848;"}
+- [Updates on  COES & OCS projects]{style="color: #7c4848;"}
 - [ELSOC Panel Visualization]{style="color: #fff;"}
 - [Social Cohesion in Latin America paper]{style="color: #7c4848;"}
 - [Comparative vignette study (Julio Iturra)]{style="color: #7c4848;"}
@@ -126,9 +133,11 @@ Universität Bremen
 
 # Contents {data-background-color="#2f0202" style="text-align: right;"}
 
+<br>
+
 <div style="height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: flex-end; text-align: right;">
 
-- [Updates on the COES & OCS project]{style="color: #7c4848;"}
+- [Updates on  COES & OCS projects]{style="color: #7c4848;"}
 - [ELSOC Panel Visualization]{style="color: #7c4848;"}
 - [Social Cohesion in Latin America paper]{style="color: #fff;"}
 - [Comparative vignette study (Julio Iturra)]{style="color: #7c4848;"}
@@ -140,9 +149,11 @@ Universität Bremen
 
 # Contents {data-background-color="#2f0202" style="text-align: right;"}
 
+<br>
+
 <div style="height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: flex-end; text-align: right;">
 
-- [Updates on the COES & OCS project]{style="color: #7c4848;"}
+- [Updates on  COES & OCS projects]{style="color: #7c4848;"}
 - [ELSOC Panel Visualization]{style="color: #7c4848;"}
 - [Social Cohesion in Latin America paper]{style="color: #7c4848;"}
 - [Comparative vignette study (Julio Iturra)]{style="color: #fff;"}
