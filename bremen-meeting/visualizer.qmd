@@ -45,7 +45,7 @@ and we had two motivations behind this project:
 
 :::{.notes}
 
-We used secondary data from the Chilean Longitudinal Social Study, a representative survey of Chile’s urban population that runs every year from 2016 (two thousand sixteen) to 2023 (two thousand twenty-three), making it a unique source of information of its kind in Chile and Latin America. 
+We used secondary data from the Chilean Longitudinal Social Study, a representative survey of Chile’s urban population that runs every year from 2016 (two thousand sixteen) to 2023 (two thousand twenty-three), making it a **yiu**nique source of information of its kind in Chile and Latin America. 
 
 For the creation of the visualizer, only respondents who participated in at least three waves of the study were considered, resulting in a total of three thousand six hundred sixty-six individuals.
 
@@ -65,9 +65,9 @@ For the creation of the visualizer, only respondents who participated in at leas
 
 :::{.notes}
 
-The measurement with social cohesion in VISELSOC is quite similar to VISLATAM as both make the distinction between horizontal and vertical dimensions proposed by Chan et al **in** (2006)
+The **me**asurement with social cohesion in VISELSOC is quite similar to VISLATAM as both make the distinction between horizontal and vertical dimensions proposed by Chan et al **in** (2006)
 
-But the main difference is that with ELSOC, we have more items for analyzing social cohesion than VISLATAM, and we could d**i**velop a more comprehensive measurement framework for Chile
+But the main difference is that with ELSOC, we have more items for analyzing social cohesion than VISLATAM, and we could d**i**velop a more comprehensive measurement framework for our data
 
 :::
 
@@ -119,13 +119,15 @@ We applied a several analytical tekn**í**ks for to arrive at the final version 
 
 Although we confirmed the factor structure of the data, all sub-dimensions were calculated as average indices to facilitate the interpretation of the results
 
+and all the decisions behind the construction of the framework can be found in this
+
 :::
 
 ## Construction
 
 :::{.incremental .highlight-last}
 
-- The visualizer was completely created by the team at the Observatory of Social Cohesion (OCS).
+- The visualizer was completely created by the team at the Social Cohesion Observatory (OCS).
 
 - It was built using code with Quarto and Shiny App.
 
@@ -135,7 +137,7 @@ Although we confirmed the factor structure of the data, all sub-dimensions were 
 
 :::{.notes}
 
-- The visualizer was completely created by the team at the Observatory of Social Cohesion
+- The visualizer was completely created by the team at the Social Cohesion Observatory
 
 - also it was built using code with Quarto and Shiny App
 
@@ -173,7 +175,7 @@ Ranking
 
 In the ranking section, we can select a sub-dimension and compare the indicators that make it up, so let’s continue with trust in political institutions
 
-First, we can see that at the right bottom there are the legends to every item. So, we can see the exact percentage when we hover over a chart.
+First, we can see that at the right bottom there are the legends of each item. So, we can see the exact percentage when we hover over a chart.
 
 In this case, trust in the government is an indicator that has change drastically over time, reaching a high of 40% and a low of 16% the following year. On the other hand, trust in political parties is at a historic low, having peaked just 14% at 2018
 

@@ -64,8 +64,6 @@ Universität Bremen
 
 # Contents {data-background-color="#2f0202" style="text-align: right;"}
 
-<br>
-
 <div style="height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: flex-end; text-align: right;">
 
 - [Updates on  COES & OCS projects]{style="color: #fff;"}
@@ -76,8 +74,6 @@ Universität Bremen
 </div>
 
 # Contents {data-background-color="#2f0202" style="text-align: right;"}
-
-<br>
 
 <div style="height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: flex-end; text-align: right;">
 
@@ -118,8 +114,6 @@ Universität Bremen
 
 # Contents {data-background-color="#2f0202" style="text-align: right;"}
 
-<br>
-
 <div style="height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: flex-end; text-align: right;">
 
 - [Updates on  COES & OCS projects]{style="color: #7c4848;"}
@@ -141,8 +135,6 @@ last year I was a research assistant at the Social Cohesion Observatory where on
 
 # Contents {data-background-color="#2f0202" style="text-align: right;"}
 
-<br>
-
 <div style="height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: flex-end; text-align: right;">
 
 - [Updates on  COES & OCS projects]{style="color: #7c4848;"}
@@ -156,8 +148,6 @@ last year I was a research assistant at the Social Cohesion Observatory where on
 
 
 # Contents {data-background-color="#2f0202" style="text-align: right;"}
-
-<br>
 
 <div style="height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: flex-end; text-align: right;">
 
