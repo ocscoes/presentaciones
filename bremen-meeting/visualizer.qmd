@@ -148,7 +148,14 @@ Although we confirmed the factor structure of the data, all sub-dimensions were 
 :::
 
 
-# Results [VISELSOC](https://ocs-coes.shinyapps.io/ocs-viselsoc/#)
+##
+
+:::{style="font-size: 115px; text-align: center;"}
+
+Results [VISELSOC](https://ocs-coes.shinyapps.io/ocs-viselsoc/#)
+
+:::
+
 
 :::{.notes}
 

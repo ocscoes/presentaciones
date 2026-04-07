@@ -105,11 +105,11 @@ Universität Bremen
 
 ## Conceptual & measurement model: horizontal 
 
-![](https://ocscoes.github.io/presentaciones/presentaciones-ocs/primer-foro/images/horizontal.png)
+![](images/vislatam-hor.png)
 
 ## Conceptual & measurement model: vertical
 
-![](https://ocscoes.github.io/presentaciones/presentaciones-ocs/primer-foro/images/vertical.png)
+![](images/vislatam-ver.png)
 
 # Contents {data-background-color="#2f0202" style="text-align: right;"}
 
