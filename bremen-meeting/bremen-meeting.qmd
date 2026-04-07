@@ -129,6 +129,14 @@ Universität Bremen
 
 </div>
 
+:::{.notes}
+
+Good morning to everyone, I am Tomás Urzúa, 
+
+last year I was a research assistant at the Social Cohesion Observatory where one of my principles tasks was the d**i**velopment of the Longitudinal Visualizer of Social Cohesion in Chile
+
+:::
+
 {{< include visualizer.qmd >}}
 
 # Contents {data-background-color="#2f0202" style="text-align: right;"}

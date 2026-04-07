@@ -13,17 +13,15 @@ editor: source
 
 :::{.incremental .highlight-last}
 
-- We had built already a visualizer for Latin America, but we didn’t have something specifically focused on Chile
+- Visualizer for Latin America, but not something specifically focused on Chile
 
-- In COES we had a panel survey which is ELSOC and last year we had a special funding since it was the last year of COES, so we decided to apply what we learn from the experience with VISLATAM to ELSOC data
+- ELSOC panel survey in COES 
+
+- Last year (2025)  special funding (since it was the last year of COES) -> apply what we learned from the experience with VISLATAM to ELSOC data
 
 :::
 
 :::{.notes}
-
-Good morning to everyone, I am Tomás Urzúa, 
-
-last year I was a research assistant at the Social Cohesion Observatory where one of my principles tasks was the d**i**velopment of the Longitudinal Visualizer of Social Cohesion in Chile
 
 and we had two motivations behind this project:
 
@@ -37,9 +35,9 @@ and we had two motivations behind this project:
 
 :::{.incremental .highlight-last}
 
-- We used secondary data from [Chilean Longitudinal Social Study (ELSOC)](https://conferencias.coes.cl/encuesta-panel/)
+- Secondary data from [Chilean Longitudinal Social Study (ELSOC)](https://conferencias.coes.cl/encuesta-panel/)
 
-- It is a panel survey that runs every year from 2016 to 2023, making it the only study of this kind in Chile and Latin America
+- Panel survey that runs every year from 2016 to 2023, making it the only study of this kind in Chile and Latin America
 
 - For the visualization, the analysis includes participants who took part in at least three waves of the study, totaling 3,666 individuals.
 
@@ -56,7 +54,7 @@ For the creation of the visualizer, only respondents who participated in at leas
 ## Measurement
 
 :::{.incremental .highlight-last}
-- We developed a measurement framework for social cohesion in Chile based on the approach proposed by Chan et al. (2006).
+- Measurement framework for social cohesion in Chile based on the approach proposed by Chan et al. (2006).
 
 - The framework is based on two dimensions:
 
@@ -108,7 +106,7 @@ Finally, we have distributive justice that is composed by how unfair people cons
 ## Measurement
 
 :::{.incremental .highlight-last}
-- We applied a several analytical techniques for to arrive at the final version of the measurement framework.
+- Differents analytical techniques for to arrive at the final version of the measurement framework.
 
 - Sub-dimensions were calculated as average indices to facilitate the interpretation of the results.
 
