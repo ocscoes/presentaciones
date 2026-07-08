@@ -143,6 +143,8 @@ and all the decisions behind the construction of the framework can be found in t
 
 - and its source code is open access and can be found in our GitHub repository
 
+- if you have questions about the programming, we can discuss it afterwards
+
 - I don´t know if all of you are familiar with Quarto, but Quarto is an open-source **pəbliSHiNG** system that allows you to create dynamic, reproducible documents, while Shiny App is a Quarto output format that enables the creation of interactive web applications.
 
 :::
